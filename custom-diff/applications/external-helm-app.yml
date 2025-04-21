@@ -10,7 +10,7 @@ spec:
   - group: apps
     kind: Deployment
     jsonPointers:
-    - /metadata/annotations/created
+    - /metadata/annotations/creation
   project: default
 
   source:
